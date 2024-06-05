@@ -4,7 +4,7 @@
 - 💞️ Open to collaborate on environmental projects.
 - 📫 Reach me via DM' on linkedin.com/in/justboon/
 - 😄 Pronouns: pick any.
-- ⚡ Fun fact: Bay area transplant hooked on surfing both digital and real waves and archery enthusiasts. Chocolate addict.
+- ⚡ Fun fact: Bay area transplant hooked on surfing both digital and real waves and archery enthusiasts. Chocolate addict. Dutch build, USA residing since 2016.
 
 <!---
 JHBoon/JHBoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
