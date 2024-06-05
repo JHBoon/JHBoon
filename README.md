@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @JHBoon
 - 👀 I’m interested in using data analysis to make the world a better place. 
-- 🌱 I’m currently learning data analysis through the UC Berkely Extention Data Analytics Bootcamp
-- 💞️ Open to collaborate on environmental projects.
+- 🌱 I’m enrolled in the UC Berkeley Extention Data Analytics Bootcamp.
+- 💞️ Open to collaboration.
 - 📫 Reach me via DM' on linkedin.com/in/justboon/
-- 😄 Pronouns: pick any.
-- ⚡ Fun fact: Bay area transplant hooked on surfing both digital and real waves and archery enthusiasts. Chocolate addict. Dutch build, USA residing since 2016.
+- ⚡ Fun fact: I am hooked on surfing both digital and ocean waves. Archery enthusiasts. Chocolate addict. Dutch build but residing in California since 2016.
 
 <!---
 JHBoon/JHBoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
