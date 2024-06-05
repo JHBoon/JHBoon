@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHBoon
 - 👀 I’m interested in using data analysis to make the world a better place. 
-- 🌱 I’m currently learning data analysis through the Berkely Bootcamp
+- 🌱 I’m currently learning data analysis through the UC Berkely Extention Data Analytics Bootcamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via DM' on linkedin.com/in/justboon/
 - 😄 Pronouns: yours to choose
